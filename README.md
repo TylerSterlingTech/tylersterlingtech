@@ -2,9 +2,9 @@
 
 <h2>Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tylersterlingtech/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/tylersterlingtech/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/tylersterlingtech/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tylersterlingtech/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tylersterlingtech/configure-ad)
