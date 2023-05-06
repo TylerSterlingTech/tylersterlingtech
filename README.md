@@ -8,3 +8,5 @@
   - [osTicket: Prerequisites and Installation](https://github.com/tylersterlingtech/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/tylersterlingtech/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tylersterlingtech/ticket-lifecycle)
+- <b>Wireshark</b>
+  - [NSGs and Inspecting Network Protocols](https://github.com/tylersterlingtech/azure-network-protocols)
